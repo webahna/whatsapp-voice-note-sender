@@ -1,0 +1,25 @@
+node_modules/
+
+# Sesion / Credenciales de WhatsApp
+auth/
+
+# Audios temporales generados por el script
+audio_temp_*.ogg
+
+# Variables de entorno
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+#Editores
+.vscode/
+.idea/
